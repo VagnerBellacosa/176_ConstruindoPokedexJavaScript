@@ -31,7 +31,13 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Download do Projeto Base](https://web.dio.me/lab/construindo-uma-pokedex-com-javascript/learning/d3684309-5d5c-45d5-9715-c29127d65612)[Construindo uma Pokédex com JavaScript](https://web.dio.me/lab/construindo-uma-pokedex-com-javascript/learning/c41bd94a-6f0f-49d1-920d-45232cb6aac1)[Instalando o Git](https://web.dio.me/lab/construindo-uma-pokedex-com-javascript/learning/9bd8129a-d815-420a-979b-027da35df604)[Criando o Fork do Projeto](https://web.dio.me/lab/construindo-uma-pokedex-com-javascript/learning/86e7b8ef-4f71-4f80-848e-0a4aee987039)[Clonando o projeto na nossa maquina](https://web.dio.me/lab/construindo-uma-pokedex-com-javascript/learning/d1ddffd1-6b48-4198-b4fc-91e96cbb8c35)[Mandando as modificações para o github](https://web.dio.me/lab/construindo-uma-pokedex-com-javascript/learning/24e0bb4b-c268-49af-bed0-d97b749917be)[Entendendo o Desafio](https://web.dio.me/lab/construindo-uma-pokedex-com-javascript/learning/a6cccca3-fffe-486d-a5f9-8472484dd3e4)
+- [Download do Projeto Base](https://web.dio.me/lab/construindo-uma-pokedex-com-javascript/learning/d3684309-5d5c-45d5-9715-c29127d65612)
+- [Construindo uma Pokédex com JavaScript](https://web.dio.me/lab/construindo-uma-pokedex-com-javascript/learning/c41bd94a-6f0f-49d1-920d-45232cb6aac1)
+- [Instalando o Git](https://web.dio.me/lab/construindo-uma-pokedex-com-javascript/learning/9bd8129a-d815-420a-979b-027da35df604)
+- [Criando o Fork do Projeto](https://web.dio.me/lab/construindo-uma-pokedex-com-javascript/learning/86e7b8ef-4f71-4f80-848e-0a4aee987039)
+- [Clonando o projeto na nossa maquina](https://web.dio.me/lab/construindo-uma-pokedex-com-javascript/learning/d1ddffd1-6b48-4198-b4fc-91e96cbb8c35)
+- [Mandando as modificações para o github](https://web.dio.me/lab/construindo-uma-pokedex-com-javascript/learning/24e0bb4b-c268-49af-bed0-d97b749917be)
+- [Entendendo o Desafio](https://web.dio.me/lab/construindo-uma-pokedex-com-javascript/learning/a6cccca3-fffe-486d-a5f9-8472484dd3e4)
 
 
 
